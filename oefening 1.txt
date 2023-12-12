@@ -3,8 +3,4 @@ https://dog.ceo/api/breeds/image/random
 
 5 random afbeeldingen van Puggle ras
 
-https:\/\/images.dog.ceo\/breeds\/puggle\/IMG_041234.jpg
-https:\/\/images.dog.ceo\/breeds\/puggle\/IMG_070809.jpg
-https:\/\/images.dog.ceo\/breeds\/puggle\/IMG_071023.jpg
-https:\/\/images.dog.ceo\/breeds\/puggle\/IMG_074532.jpg
-https:\/\/images.dog.ceo\/breeds\/puggle\/IMG_074816.jpg
+https://dog.ceo/api/breed/puggle/images/random/5
